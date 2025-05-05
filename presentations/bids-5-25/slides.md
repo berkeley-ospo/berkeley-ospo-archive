@@ -11,43 +11,14 @@
 }
 </style>
 
-
-<div style="font-size: 220%; font-weight: 600;">
-Scientific Python $\bm{\times}$ BIDS Leadership
+<div style="font-size: 300%; font-weight: 600;">
+&nbsp;&nbsp; Scientific Python
+<img alt="Scientific Python logo" src="images/scientific-python-logo.svg" width="90em"/>
+</div>
+<div style="font-size: 180%; font-weight: 600;">
+BIDS, CDSS, & Berkeley
 </div>
 <br/>
-<br/>
-
-<div style="display: flex; justify-content: center; margin-left: 2em;">
-<img alt="Scientific Python logo" src="images/scientific-python-logo.svg" width="300em"/>
-<img alt="Berkeley OSPO logo" src="images/BIDS-logo.svg" width="300em" style="margin-left: 6em;"/>
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!--
-<br/>
-<br/>
-<br/>
-<div style="text-align: left;">
-Jarrod Millman & Stéfan van der Walt<br/>
-Berkeley Institute for Data Science<br/>
-UC Berkeley
-</div>
--->
-
-Notes:
-
-Took the title from Kirstie's calendar invite.
-BIDS Leadership is meant as a verb (not noun).
-
----
-
-# Overview
-
 <br/>
 
 ### Why?
@@ -130,14 +101,12 @@ http://nipy.org/nipy/mission.html
 
 Notes:
 
-- Python wasn't really a serious alternative to Matlab / IDL
-- 2004 meeting Jonathan, John (ECoG), Fernando, Travis, Perry, et al
-- 2005, first course on campus, and probably *one of the* earliest
-  courses anywhere, was given in Tolman Hall by Fernando and John.
-- 2008, Fernando is appointed at the BIC
-- 2010 I co-organizes SciPy India. meets Stéfan, US SciPy conference proceedings
-- Josh Bloom, annual Python bootcamp and the AY250 course
-
+- Python not serious alternative to Matlab / IDL
+- 04 meet FP, JT, JH, TP, PG, et al
+- 05 course Tolman Hall by FP and JH
+- 08 Fernando appointed at the BIC
+- 10 SciPy India. meet Stéfan, US SciPy conference proceedings
+- Josh Bloom, Python bootcamp, AY250
 
 ...
 
@@ -271,7 +240,7 @@ Notes:
 
 **Social**
 
-- Governance (*see also:* people)
+- Governance and Coordination
 
 Notes:
 
@@ -381,9 +350,12 @@ Notes:
 
 ...
 
-<img src="images/llms.jpeg" width="60%"/>
+# AI
 
 ---
 
-# Discussion
+<div style="display: flex; justify-content: center; margin-left: 2em;">
+<img alt="Scientific Python logo" src="images/scientific-python-logo.svg" width="300em"/>
+<img alt="Berkeley OSPO logo" src="images/BIDS-logo.svg" width="300em" style="margin-left: 6em;"/>
+</div>
 
