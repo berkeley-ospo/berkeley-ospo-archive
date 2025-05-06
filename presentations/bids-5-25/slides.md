@@ -350,7 +350,7 @@ Notes:
 
 ...
 
-# AI
+<img src="images/sp-ai.png" height="600px"/>
 
 ---
 
