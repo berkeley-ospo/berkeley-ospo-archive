@@ -342,7 +342,7 @@ Notes:
 
 ...
 
-<img src="images/cover-2025.svg" height="100%"/>
+<img src="images/cover-2025.png" height="650px"/>
 
 ...
 
