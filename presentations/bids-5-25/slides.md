@@ -189,7 +189,23 @@ https://jupytearth.org/jupyter-resources/introduction/ecosystem.html
 <br/>
 
 - community developed, and community owned
+- transparent, open
+- intuitive & expressive
+
+<!--
+  - transparent, open (distribute and modify—user contributer)
+  - aligned incentives (vs commercial, e.g.)
+  - paves way towards reproducible research
+-->
+
+<!--
 - importance of language and library choices
+-->
+
+<!--
+- general-purpose
+  - prioritizes human (not computer) time
+-->
 
 Notes:
 
