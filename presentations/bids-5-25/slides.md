@@ -59,7 +59,7 @@ Notes:
 
 ...
 
-# Is there a better way?
+# Can we do better?
 
 ...
 
@@ -155,6 +155,11 @@ Notes:
 
 # Impact
 
+<img src="images/numpy.png" width="49%" />
+<img src="images/scipy.png" width="46%" />
+
+Notes:
+
 - Scientific Research
 - Education and Workforce Development
 - Economic Growth and Innovation
@@ -173,14 +178,6 @@ https://jupytearth.org/jupyter-resources/introduction/ecosystem.html
 ...
 
 <img src="images/ecosystem.png" width="70%" />
-
-...
-
-<br/>
-
-### 📜 Principles
-### 🚜 Practices
-### 🤸🏿   People
 
 ...
 
@@ -244,6 +241,9 @@ Notes:
 
 ## Practices
 
+<img src="images/practice.png"/>
+
+<!--
 <br/>
 
 **Technical**
@@ -262,7 +262,7 @@ Notes:
 
 No matter how sound philosophy, we still need working code!
 
-<!-- Code review both during development cycle, but also during use where
+Code review both during development cycle, but also during use where
 users can easily introspect for problems. -->
 
 <!-- Documentation has to stay in sync with code (docstrings). -->
